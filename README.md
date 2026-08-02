@@ -16,7 +16,21 @@
 ## Goals
 I am passionate about technology and continuously improving my programming skills by building projects and learning new technologies.
 
-<!--
+<!## 🌐 Connect with Me
+- GitHub: https://github.com/Kabuguzigabriel
+- Email: kabuguzi41@gmail.com
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## 🎯 Goals
+- Become a Full Stack Developer
+- Build real-world web applications
+- Contribute to Open Source
+- Learn Computer Science deeply--
 **kabuguzigabriel/Kabuguzigabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
